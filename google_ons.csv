@@ -280,14 +280,14 @@ Dumfries and Galloway,S12000006
 East Ayrshire Council,S12000008
 East Lothian Council,S12000010
 East Renfrewshire Council,S12000011
-Na h-Eileanan an Iar,S12000013
+Comhairle nan Eilean Siar,S12000013
 Falkirk,S12000014
 Highland Council,S12000017
 Inverclyde,S12000018
 Midlothian,S12000019
 Moray,S12000020
 North Ayrshire Council,S12000021
-Orkney,S12000023
+Orkney Islands,S12000023
 Scottish Borders,S12000026
 Shetland Islands,S12000027
 South Ayrshire Council,S12000028
@@ -380,3 +380,5 @@ Wokingham,E06000041
 York,E06000014
 Bracknell Forest,E06000036
 Leicester,E06000016
+Wilshire,E06000054
+Shetland Islands,S12000027
